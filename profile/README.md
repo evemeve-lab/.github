@@ -1,6 +1,6 @@
 # ∑ EVEMEVE 👨‍💻  
 
-## 🧬 ~/code/namespaces/eve 🐉
+## 🐉 ~/code/namespaces/eve 
 
 - Be honest
 - Be good
