@@ -1,4 +1,4 @@
-# ∑ EVEMEVE 👨‍💻 / 🧬  
+# [∑ EVEMEVE 👨‍💻 / 🧬](https://github.com/evemeve-lab)
 
 ## [🐉 ~/code/namespaces/eve](https://github.com/evemeve-lab/codespace) 
 
